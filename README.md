@@ -37,6 +37,4 @@ Currently, I'm heavily exploring **vibe coding**—seamlessly orchestrating AI a
 
 <br/>
 
-<div align="center">
-  <img src="organic_pixels.svg" />
-</div>
+
